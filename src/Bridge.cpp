@@ -28,7 +28,6 @@ void Bridge::loop()
 
             if (_buffer[_currentBuffPosition] == 13)
             {
-
                 dispatchEvent(_buffer);
                 resetBuffer();
                 continue;
