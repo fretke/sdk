@@ -1,0 +1,22 @@
+{
+    "name": "fretke_sdk",
+    "version": "1.0.0",
+    "description": "Dev kit used for IOT",
+    "keywords": "serial communication, helpers",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "fretke"
+      }
+    ],
+    "license": "MIT",
+    "dependencies": {
+    },
+    "frameworks": ["arduino"],
+    "platforms": ["espressif8266", "atmelavr"]
+  }
