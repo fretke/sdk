@@ -9,6 +9,7 @@ Bridge::Bridge(uint8_t rx, uint8_t tx, long baundRate)
 
 void Bridge::init()
 {
+    Serial.println("INIT");
     comm.begin(_baundRate);
 }
 
