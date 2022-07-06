@@ -1,4 +1,5 @@
 #include <ESP8266WiFi.h>
+#include <Wifi.h>
 
 void Wifi::searchWifi()
 {
