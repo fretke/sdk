@@ -1,6 +1,6 @@
 {
     "name": "fretke_sdk",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Dev kit used for IOT",
     "keywords": "serial communication, helpers",
     "repository":
@@ -16,7 +16,6 @@
     ],
     "license": "MIT",
     "dependencies": {
-      "links2004/WebSockets": "^2.3.6"
     },
     "frameworks": ["arduino"],
     "platforms": ["espressif8266", "atmelavr"]
