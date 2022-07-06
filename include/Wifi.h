@@ -2,7 +2,7 @@
 #define WIFI
 
 #include <ESP8266WiFi.h>
-#include <ArduinoJson.h
+#include <ArduinoJson.h>
 
 class Wifi
 {
