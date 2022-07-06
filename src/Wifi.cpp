@@ -1,7 +1,5 @@
 #include <ESP8266WiFi.h>
-#include <ArduinoJson.h>
-
-#include "Wifi.h"
+#include <Wifi.h>
 
 void Wifi::searchWifi()
 {
