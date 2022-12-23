@@ -16,6 +16,7 @@
     ],
     "license": "MIT",
     "dependencies": {
+      "bblanchon/ArduinoJson": "^6.19.1"
     },
     "frameworks": ["arduino"],
     "platforms": ["espressif8266", "atmelavr"]
